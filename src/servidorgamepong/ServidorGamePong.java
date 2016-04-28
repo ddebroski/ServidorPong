@@ -35,7 +35,7 @@ public class ServidorGamePong extends javax.swing.JFrame {
     int pontuacaoB = 0;
     int velocidadeBola = 3;
     //porta do servidor
-    int portaServidor = 5554;
+    int portaServidor = 50001;
     //tela cliente
     int largura = 790;
     int altura = 600;
